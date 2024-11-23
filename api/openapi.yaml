@@ -3,7 +3,7 @@ info:
   title: Masp Indexer
   version: '1.0'
 servers:
-  - url: https://masp-indexer-testnet.hadesguard.tech/
+  - url: https://masp-indexer-testnet.hadesguard.tech/api/v1
 paths:
   /block-index:
     get:
